@@ -1,0 +1,20 @@
+.req{
+    margin-top: 50px;
+    margin-left: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.req .Req {
+    width: 20%;
+    margin: 20px;
+   
+
+}
+.homelist{
+    
+    padding-top: 60px;
+}

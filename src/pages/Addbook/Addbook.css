@@ -1,0 +1,88 @@
+@media screen and (min-width ) {
+    
+    
+}
+* {
+    box-sizing: border-box;
+    }
+    .ll{
+        background-color: #000000;
+
+        flex-direction: column;
+        height: 100vh ;
+        
+        
+    }
+    form{
+        background-color: #feffff;
+        width: 70vh;
+    
+    } 
+.Add{
+
+    padding: 100px; 
+    background-color: #fafafa; 
+   
+    align-items: center;
+    margin:0%;
+    
+    box-sizing: border-box;
+
+    padding-top: 20vh;
+    padding-left: 55vh;
+     height: 100vh;
+
+}
+.Add h1{
+    align-items: center;
+    color: #000000;
+    padding-left: 130px;
+}
+input[type=bookname], input[type=ISBN] {
+    width: 100%;
+    padding: 13px;
+    margin: 5px 0 22px 0;
+    display:block;
+    border: none;
+    background: #f1f1f1;
+    border-radius: 10px;
+    }
+input[type=bookname]:focus, input[type=ISBN]:focus {
+    background-color: #ddd;
+    outline: none;
+    border-radius: 10px;
+
+    }
+.log{
+    background-color: #000000;
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+    border-radius: 10px;
+
+    }
+.submit{
+    background-color: white;
+    color: #000000;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 48.5%;
+    opacity: 0.9;
+    border-radius: 10px;
+
+}
+.submit a{
+    text-decoration: none;
+    color: #000000;
+}
+.submit a:hover{
+    color: black;
+    font-family: initial;
+    font-size: larger;
+}
